@@ -16,3 +16,7 @@ Guia de uso
 DESCRIPCION DE LAS DEPENDENCIAS UTILIZADAS
 - Flask-SQLAlchemy es una herramienta principales  que nos permite acceder y gestionar bases de datos relacionales en aplicaciones Flask. Es una extensión de Flask que usa la biblioteca SQLAlchemy de Python. 
 - SQLAlchemy es una biblioteca de Python que se usa para acceder a bases de datos relacionales y realizar operaciones con los datos almacenados
+
+CONTRIBUCIONES DE CADA MIENBRO
+- Daniela creo el proyecto 
+- diego y camilo crearon el codigo
