@@ -1,5 +1,7 @@
 Descripción del proyecto
-- Sisteme de pedidos de un restaurante donde temenos un menu 
+- Sisteme de pedidos de un restaurante donde temenos un menu
+
+  por problemas tecnicos uno de los integrantes del grupo no pudo trabajar desde su computador pero todos trabajamos en la actividad
 
 Instrucciones de instalación y configuración
 - se creo el entorno virtual (python -m venv .venv)
